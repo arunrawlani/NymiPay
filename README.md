@@ -1,7 +1,5 @@
 # NymiPay
 
-<img src="https://cloud.githubusercontent.com/assets/8840000/10228774/9c418ca4-6842-11e5-9e58-f0025200ff81.png" width="320" height="568" />
-
 License Grant: Licensor hereby grants Licensee a Personal, Non-assignable & non-transferable, Pepetual, Non-commercial, Without the rights to create derivative works, Non-exclusive license, all with accordance with the terms set forth and other legal restrictions set forth in 3rd party software used while running Software.
 Limited: Licensee may use Software for the purpose of:
 Running Software on Licensee’s Website[s] and Server[s];
